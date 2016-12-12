@@ -6,5 +6,9 @@ now
 
 Hey Test NNN
 
+<<<<<<< HEAD
 Back to you
 Again
+=======
+Test
+>>>>>>> refs/heads/Me/20161212/Another2
